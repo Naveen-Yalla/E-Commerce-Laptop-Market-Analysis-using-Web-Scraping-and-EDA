@@ -1,0 +1,775 @@
+Brand_name,Device_name,Operating system,Ram(in GB),Storage(in GB),Price(in ₹),Discount(in percentages),Rating,Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire 3 (2025) Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,41800,50.0,4.2,3 Years Warranty
+Acer,Acer Aspire 3 Intel Celeron Dual Core,Windows 11 Home,8,128,15990,51.0,3.8,1 Year Warranty
+Acer,Acer Aspire 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,27990,34.0,4.2,1 Year Domestic Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL Inspiron 15 MSO'24 with Backlit KB Intel Core i7 13th Gen 1355U,Windows 11,16,512,66990,9.0,4.2,NO Warrenty
+Acer,Acer Professional AMD Ryzen 3 Quad Core 7th Gen 7330U With Turbo Boost,Windows 11,16,512,31990,20.0,4.0,NO Warrenty
+Acer,Acer Aspire 3 Intel Celeron Dual Core,Windows 11 Home,8,512,19990,44.0,3.8,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 15 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,16,512,32490,45.0,4.0,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 13th Gen 1315U",Windows 11,16,512,38990,29.0,4.3,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,8,512,36950,23.0,4.1,1 year M365 Basic1 Year Onsite Warranty
+Acer,Acer Aspire 3 Intel Celeron Dual Core N4500,Windows 11 Home,8,512,23990,29.0,3.9,1 Year International Travelers Warranty (ITW)
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Acer,Acer Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,32990,31.0,4.2,1 Year Carry-in Warranty
+Lenovo,Lenovo Ideapad Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,47990,36.0,4.2,NO Warrenty
+DELL,DELL 15 AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,16,512,37990,33.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Backlit Keyboard with MSO'2024 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,59990,28.0,4.4,20241 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Backlit Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,47990,33.0,4.2,NO Warrenty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,31990,28.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,45490,35.0,4.2,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U,Windows 11 Home,16,512,35990,40.0,4.1,1 Year Carry-in Warranty
+Acer,Acer Aspire 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,256,28990,29.0,4.2,1 Year Domestic Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U,Windows 11 Home,16,512,37900,54.0,4.2,20211 Year Onsite Warranty
+HP,HP 15R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,8,512,35990,52.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Acer,Acer Aspire Lite AMD Ryzen 5 Hexa Core 5625U,Windows 11 Home,8,512,31938,43.0,4.1,1 Year Carry-in Warranty
+Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,Windows 11 Home,8,512,26990,40.0,4.1,1 Year Carry-in Warranty
+DELL,DELL 15 Intel Core i3 13th Gen 1305U,Windows 11 Home,16,512,35990,33.0,4.2,NO Warrenty
+HP,HP AMD Ryzen 7 Octa Core 5825U,Windows 11 Home,16,512,47490,14.0,4.1,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 13th Gen 1315U",Windows 11,8,512,35990,34.0,4.3,1 Year Onsite warranty
+DELL,DELL Inspiron 5440 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,35250,46.0,3.9,NO Warrenty
+Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,Windows 11 Home,16,512,29890,41.0,4.1,1 Year Carry-in Warranty
+Acer,Acer Swift Neo OLED AI PC Intel Core Ultra 5 115U,Windows 11 Home,16,512,61990,38.0,4.1,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Edge Series Copilot AI-PC Full Metal Chasis Qualcomm Snapdragon X,Windows 11,16,512,55990,39.0,4.3,20241 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Acer,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U,Windows 11 Home,8,512,28799,35.0,4.1,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire 3 Intel Celeron Dual Core N4500,Windows 11 Home,12,256,21990,26.0,3.9,1 Year Carry-in Warranty
+Acer,Acer Aspire 15 Metal Body (i5 14th Gen) Intel Core 5 120U,Windows 11 Home,16,512,46890,25.0,4.2,1 Year Carry-in Warranty
+Acer,Acer Aspire 3 Intel Celeron Dual Core,Windows 11 Home,8,256,17990,46.0,3.8,1 Year Warranty
+HP,HP 15 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Pro,8,512,29490,41.0,4.4,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 5 Hexa Core 5500U,Windows 11 Home,8,512,33990,28.0,4.2,NO Warrenty
+Samsung,Samsung Galaxy Book5 AI Metal Intel Core Ultra 5 225U,Windows 11 Home,16,512,74140,25.0,4.5,20241 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15 G10 (2025) AMD Athlon Dual Core 7120U,Windows 11 Home,8,256,26990,46.0,4.0,1 Year Onsite Warranty
+Acer,Acer Aspire 3 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,31990,36.0,4.3,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,40990,22.0,4.2,1 year1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,88189,1.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,Windows 11 Home,8,256,26491,24.0,4.1,1 Year Carry-in Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 13th Gen 13420H,Windows 11 Pro,16,512,46990,49.0,4.5,1 Year Onsite Warranty
+HP,HP Intel Celeron Dual Core N4500,Windows 11 Home,8,512,25990,18.0,3.7,1 Year Onsite Warranty
+Acer,Acer Aspire 15 AMD Ryzen 5 Hexa Core 7430U,Windows 11 Home,16,512,38990,35.0,4.1,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,29.0,4.2,1 year1 Year Onsite Warranty
+HP,HP 255 G10 AMD Athlon Dual Core 7120U,Windows 11 Home,8,256,26890,25.0,4.1,1 Year Onsite Warranty
+DELL,DELL 14 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Pro,16,512,37790,46.0,4.2,NO Warrenty
+HP,HP AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,8,512,39900,26.0,3.9,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP MSO 2024 Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,39990,21.0,4.1,1 Year Onsite Warranty
+ASUS,ASUS Expertbook P1 Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,41990,44.0,4.3,1 year Validity)1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL Vostro Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,49999,18.0,4.2,1 Year Onsite Warranty
+HP,HP Victus AI 31 TOPS AMD Ryzen 5 Hexa Core 8645HS,Windows 11 Home,16,512,57990,21.0,4.3,1 Year Onsite Warranty
+Acer,Acer Aspire 3 Backlit AMD Ryzen 7 Octa Core 7730U,Windows 11 Home,16,512,42990,41.0,4.1,1 Year Carry-in Warranty
+Acer,Acer Aspire 15 AMD Ryzen 5 Hexa Core 7430U,Windows 11 Home,8,512,36990,32.0,4.1,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 15 Intel Celeron Dual Core N4500,Windows 11 Home,8,512,28990,23.0,4.0,1 Year Onsite Warranty
+MSI,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,57990,35.0,4.4,2 Year Onsite Warranty
+Ultimus,Ultimus APEX Intel Celeron Dual Core 4mm Thin Bezel 180 Degree Hinge,Windows 11,8,512,18990,52.0,3.7,1 Year Manufacturer Warranty : Battery & adaptor only 6 Month
+HP,HP G9 Intel Core i3 13th Gen 1315U Turbo Boost with Finger Print,Windows 11 Pro,16,512,37990,14.0,4.0,NO Warrenty
+ASUS,ASUS Expertbook P1 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,39990,42.0,4.3,1 year Validity)1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,46990,49.0,4.2,1 Year Onsite Warranty
+HP,HP AMD Athlon Dual Core,Windows 11 Home,8,256,25400,49.0,4.1,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,54990,24.0,4.3,2 Year Onsite Warranty
+HP,HP 15 (Core i3) Intel Core 3 14th Gen 100U,Windows 11 Home,8,512,36990,27.0,4.2,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,42990,24.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,46450,39.0,4.6,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 16X (2025) with Office 2024 + M365 Basic* Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,64550,28.0,4.2,1 year1 Year Onsite Warranty
+Lenovo,Lenovo Lenovo V15 G3 IAP Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,43990,50.0,4.1,1 Year Onsite Warranty
+HP,HP (2024) Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,39599,13.0,3.9,1 Year Warranty
+HP,HP Intel Core i5 13th Gen 1334U,Windows 11 Home,12,512,48999,29.0,4.2,1 Year Onsite Warranty
+DELL,DELL Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,31990,31.0,4.2,1 Year Onsite warranty
+Acer,Acer Aspire 7 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,62990,30.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,57499,0.0,4.4,1 Year Onsite Warranty
+HP,HP Victus AMD Ryzen 7 Hexa Core 7445HS,Windows 11 Home,16,512,58990,22.0,4.4,1 Year Onsite Warranty
+HP,HP Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,34480,32.0,4.2,1 Year Onsite warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Hexa Core 7435HS,Windows 11 Home,16,512,65999,16.0,4.4,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,Windows 11 Home,16,512,29590,44.0,4.0,1 Year Carry-in Warranty
+Acer,Acer Aspire 7 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,62990,30.0,4.3,1 Year Onsite Warranty
+Acer,Acer Aspire 7 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,61199,28.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL 15 Intel Core i3 13th Gen 1305U,Windows 11 Home,16,512,35990,33.0,4.2,NO Warrenty
+Lenovo,Lenovo V15 Series AMD Athlon Dual Core 7120U,Windows 11 Home,8,512,26990,28.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,37020,29.0,4.3,1 Year Onsite Warranty
+MSI,MSI Modern 14 AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,8,512,41990,32.0,4.4,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,8,512,39900,26.0,3.9,1 Year Onsite Warranty
+DELL,DELL 15 Intel Core i5 13th Gen 1334U,Windows 11 Home,8,512,46390,27.0,4.2,NO Warrenty
+HP,HP Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,66990,13.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,29289,25.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32800,48.0,4.0,2 Year Onsite Warranty
+GIGABYTE,GIGABYTE G Series Intel Core i7 13th Gen,Windows 11 Home,16,512,78990,50.0,4.3,NO Warrenty
+ASUS,ASUS Expertbook P1 High-performance processor Intel Core i5 13th Gen 13420H,Windows 11 Home,32,512,64990,43.0,4.3,1 year Validity)1 Year Onsite Warranty
+Acer,Acer Aspire 3 Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,45990,31.0,4.3,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 13th Gen 13420H,Windows 11 Pro,16,512,46990,49.0,4.5,1 Year Onsite Warranty
+Acer,Acer Aspire 15 Metal Body (i5 14th Gen) Intel Core 5 120U,Windows 11 Home,16,512,46890,25.0,4.2,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL 15 Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,50480,21.0,4.8,NO Warrenty
+Acer,Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U,Windows 11 Home,8,256,26491,24.0,4.1,1 Year Carry-in Warranty
+ASUS,ASUS X1504ZA Intel Core i3 12th Gen 12th Gen Intel Core i3-1215U,Windows 11 Home,8,512,36790,33.0,4.3,NO Warrenty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Hexa Core 5500U,Windows 11 Home,8,512,38390,22.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo V14 Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,47490,29.0,4.1,1 Year Carry In To SERVICE CENTER WARRANTY
+MSI,MSI Modern 14 Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,46990,41.0,4.3,1 Year Onsite Warranty
+ASUS,ASUS (2024) AMD APU Dual Core E1 E1-6010,Windows 11 Home,4,500,17990,16.0,3.7,1 Year Limited International Hardware Warranty
+CHUWI,CHUWI Intel Celeron Quad Core 12th Gen N100,Windows 11 Home,8,256,22990,34.0,4.1,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U",Windows 11,8,512,42990,38.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,35390,52.0,4.2,1 Year Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,40990,26.0,4.4,1 Year Carry-in Warranty
+Acer,Acer Aspire 3 Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,45990,31.0,4.3,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 250R G9 (2024) Intel Core i3 13th Gen Intel Core i3 - 1315U (13th Gen),Windows 1,8,512,34950,22.0,4.2,111 Year Onsite Warranty
+HP,HP Victus Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,79990,19.0,4.6,1 Year Onsite Warranty
+MSI,MSI Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,42990,27.0,4.3,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,30990,45.0,4.3,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,8,512,36950,23.0,4.1,1 year M365 Basic1 Year Onsite Warranty
+Acer,Acer Aspire 14 Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,58990,30.0,4.5,1 Year Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U",Windows 11,16,512,45990,38.0,4.1,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,39990,27.0,4.3,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15 (2025) with Office 2024 + M365 Basic*, AMD Ryzen 7 Octa Core 7730U",Windows 11 Home,16,512,48990,26.0,4.2,1 year1 Year Onsite Warranty
+Lenovo,Lenovo LOQ Intel Core i5 13th Gen 13450HX,Windows 11 Home,16,512,79990,23.0,4.3,NO Warrenty
+Acer,Acer Aspire 3 AMD Ryzen 3 Quad Core 7330U,Windows 11 Home,8,512,28799,35.0,4.1,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,24,512,93290,27.0,4.5,NO Warrenty
+HP,HP Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,53000,18.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 15R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,8,512,35990,52.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Infinix,Infinix X Air Pro+ Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,69990,0.0,4.4,1 year Onsite Warranty
+HP,HP 255 G10 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,32390,37.0,4.2,111 Year Onsite Warranty
+HP,HP 255 G10 (2024) AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,31990,0.0,4.0,111 Year Onsite Warranty
+CHUWI,CHUWI Intel Celeron Quad Core 12th Gen N100,Windows 11 Home,8,256,22990,34.0,4.1,1 Year Onsite Warranty
+ASUS,ASUS Expertbook P1 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,39990,42.0,4.3,1 year Validity)1 Year Onsite Warranty
+HP,HP 247 G8 AMD Ryzen 5 Dual Core 3500U,Windows 11 Home,8,512,26990,57.0,4.1,1 year warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+ASUS,ASUS Vivobook Go 15 Intel Celeron Dual Core N4020,Windows 11 Home,4,256,24475,27.0,4.0,1 Year Onsite Warranty
+HP,HP 14R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,38990,11.0,4.2,1 Year Onsite Warranty
+MSI,MSI Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,32990,35.0,4.2,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS Expertbook P1 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,39990,42.0,4.3,1 year Validity)1 Year Onsite Warranty
+HP,HP MS Office 2024 Intel Core i5 13th Gen 1334U,Windows 11 Home,8,512,49990,20.0,4.2,20241 Year Carry-in Warranty
+HP,HP Victus AI 31 TOPS AMD Ryzen 5 Hexa Core 8645HS,Windows 11 Home,16,512,57990,21.0,4.3,1 Year Onsite Warranty
+Acer,Acer Swift Neo OLED AI PC Intel Core Ultra 5 115U,Windows 11 Home,16,512,61990,38.0,4.1,1 Year Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 12th Gen 1235U",Windows 11,16,512,45990,38.0,4.2,1 Year Onsite warranty
+ASUS,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30800,39.0,4.3,1 Year Onsite Warranty
+MSI,MSI Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,32990,31.0,4.2,1 Year Carry-in Warranty
+Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 5 Hexa Core 5500U,Windows 11 Home,8,512,42021,44.0,4.5,20192 Years Warranty
+HP,HP G9 SERIES AMD Athlon Dual Core 3050U,Windows 11 Home,4,256,25100,44.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 16 (2025) with Office 2024 + M365 Basic* Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,66990,23.0,4.5,1 year1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i5 13th Gen 1334U",Windows 11,16,512,48990,30.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Backlit Keyboard with MSO'2024 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,59990,28.0,4.4,20241 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Ultimus,Ultimus APEX Intel Celeron Dual Core 4mm Thin Bezel 180 Degree Hinge,Windows 11,8,512,18990,52.0,3.7,1 Year Manufacturer Warranty : Battery & adaptor only 6 Month
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Acer,Acer Swift Lite 14 Intel Core Ultra 5 115U,Windows 11 Home,16,512,59990,25.0,5.0,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL 14 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Pro,16,512,37790,46.0,4.2,NO Warrenty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,8,512,54990,22.0,4.3,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,34490,32.0,4.2,1 Year Onsite Warranty
+Acer,Acer Aspire 7 Intel Core i5 12th Gen 12450H,Windows 11 Home,8,512,51299,38.0,4.2,1 Year Onsite Warranty
+DELL,DELL 15 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35299,21.0,4.2,NO Warrenty
+CHUWI,CHUWI Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,41990,30.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book 4 14th Gen with Fingerprint Reador Intel Core 5 14th Gen 120U,Windows 11,16,512,52990,47.0,4.3,NO Warrenty
+HP,HP AMD Ryzen 5 Hexa Core 5500U,Windows 11 Home,8,512,43999,19.0,4.2,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,31.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Backlit Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,63990,19.0,4.1,1 Year warranty
+Infinix,Infinix Y4 Max Series Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,37990,30.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+DELL,DELL Inspiron 5440 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,35250,46.0,3.9,NO Warrenty
+Infinix,Infinix Y4 Max Series Intel Core i5 13th Gen 1335U,Windows 11 Home,16,512,49679,23.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP Professional 240 G10 (2025) Intel Core i5 13th Gen 1334U,Windows 11 Pro,32,512,58990,32.0,4.7,1 Year Onsite Warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Hexa Core 7435HS,Windows 11 Home,16,512,83990,22.0,4.5,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,256,28990,35.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP Pavilion Plus Creator OLED Eyesafe H-Series Intel Core i5 12th Gen 12500H,Windows 11,16,512,84699,11.0,4.0,1 Year Onsite Warranty
+Acer,Acer Aspire AMD Ryzen 5 Quad Core 3500U,Windows 11 Home,8,512,37990,30.0,4.3,1 Year International Travelers Warranty (ITW)
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,57990,27.0,4.4,1 Year Onsite Warranty
+Lenovo,Lenovo Yoga 7 13th Gen 1340P WUXGA OLED Intel Core i5 13th Gen 1340P,Windows 11,16,512,85990,23.0,4.4,1 Year Carry-in Warranty
+DELL,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U",Windows 11,16,512,52900,27.0,4.2,NO Warrenty
+HP,HP AMD Ryzen 5 Quad Core 7th Gen,Windows 11 Pro,8,512,29490,34.0,3.9,NO Warrenty
+MSI,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,54990,24.0,4.3,2 Year Onsite Warranty
+ASUS,"ASUS Vivobook Go 15 OLED, with Backlit Keyboard, AMD Ryzen 5 Quad Core 7520U",Windows 11,8,512,40990,45.0,4.4,1 Year Onsite Warranty
+Lenovo,Lenovo Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,42790,57.0,4.4,20211 Year Onsite Warranty
+Lenovo,Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS,Windows 11 Home,24,512,68790,16.0,4.4,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP Pavilion AI PC Intel Core Ultra 5 125U,Windows 11 Home,16,512,68599,23.0,4.3,1 Year Carry-in Warranty
+HP,HP (2024) Laptop with Backlit Keyboard Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,48500,18.0,4.1,1 Year Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,46450,39.0,4.6,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS,Windows 11 Home,12,512,65790,26.0,4.4,1 Year Onsite Warranty
+ASUS,ASUS Expertbook P1 High-performance processor Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,68990,31.0,4.3,1 year Validity)1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 5 Hexa Core 5625U,Windows 11 Home,16,512,42990,38.0,3.8,20241 Year Onsite Warranty
+Acer,Acer Professional AMD Ryzen 3 Quad Core 7th Gen 7330U With Turbo Boost,Windows 11,16,512,31990,20.0,4.0,NO Warrenty
+DELL,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 12th Gen 1235U",Windows 11,8,512,49990,38.0,4.2,NO Warrenty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,29.0,4.2,1 year1 Year Onsite Warranty
+HP,HP G10 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,16,512,34290,17.0,3.9,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 12th Gen 1215U",Windows 11,8,512,30990,43.0,4.3,NO Warrenty
+Lenovo,Lenovo V15 Series AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,35990,37.0,3.9,1 Year Onsite Warranty
+HP,HP 15R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,43886,48.0,4.0,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP 15s Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,50590,32.0,4.0,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI Modern 14 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,31520,34.0,4.4,1 Year Warranty Term
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,8,512,49890,24.0,4.2,NO Warrenty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,16,512,55990,26.0,4.3,1 Year Carry-in Warranty
+HP,HP Professional Intel Core i5 13th Gen 1334U Turbo Boost Finger Print,Windows 11,32,512,55913,39.0,3.9,NO Warrenty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,8,512,33560,49.0,5.0,1 Year Warranty
+HP,HP Intel Core 3 13th Gen 1315U,Windows 11 Home,8,512,37499,26.0,4.0,NO Warrenty
+Acer,Acer Aspire 3 Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,38990,37.0,4.0,1 Year International Travelers Warranty (ITW)
+DELL,DELL Inspiron 3520 Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,46990,21.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Edge Series Copilot AI-PC Full Metal Chasis Qualcomm Snapdragon X,Windows 11,16,512,55990,39.0,4.3,20241 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP Victus AMD Ryzen 5 Hexa Core 5600H,Windows 11 Home,8,512,51990,17.0,3.8,20211 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo AMD Ryzen 7 Octa Core 7730U,Windows 11 Home,16,512,42999,30.0,4.3,1 Year Onsite Warranty
+HP,HP 15 G9 (2025) AMD Ryzen 3 Dual Core 3250U,Windows 11 Home,16,512,34250,32.0,4.1,1 Year Onsite Warranty
+HP,HP 15 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,37990,41.0,3.9,1 Year Onsite Warranty
+MSI,MSI Modern 14 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,32990,44.0,4.3,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Hexa Core 7435HS,Windows 11 Home,16,512,65999,16.0,4.4,1 Year Carry-in Warranty
+HP,HP 15 G9 (2025) AMD Ryzen 3 Dual Core 3250U,Windows 11 Pro,16,512,33250,37.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,57000,32.0,4.2,1 Year Onsite Warranty.
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,40990,22.0,4.2,1 year1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic*, Intel Core i3 13th Gen 1315U",Windows 11 Home,8,512,39990,21.0,4.3,1 year1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,34880,40.0,4.2,NO Warrenty
+ASUS,ASUS Vivobook Go 15 (2025) with Office 2024 + M365 Basic* Intel Core i3 N305,Windows 11 Home,8,512,30990,29.0,4.3,1 year1 Year Onsite Warranty
+ZEBRONICS,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,42699,30.0,3.9,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook 14 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,36850,26.0,4.3,20211 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 5 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,57990,20.0,4.2,NO Warrenty
+HP,HP Professional Intel Core i5 13th Gen 1334U Turbo Boost,Windows 11 Pro,16,512,52964,37.0,4.0,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP Laptop Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,41750,32.0,4.5,20211 Year Onsite Warranty
+DELL,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 13th Gen 1334U",Windows 11,8,512,49949,32.0,4.2,NO Warrenty
+Lenovo,Lenovo V 14 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,16,512,35410,52.0,3.5,1 Year Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Acer,Acer One Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,25499,42.0,4.2,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo V15 G2 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,31490,42.0,4.2,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,40990,26.0,4.2,1 Year Carry-in Warranty
+MSI,MSI Thin A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,57990,35.0,4.4,2 Year Onsite Warranty
+Acer,Acer Aspire Lite Intel Core i3 13th Gen 1305U,Windows 11 Home,16,512,35990,35.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo Intel Core i3 12th Gen,Windows 11 Home,16,512,34990,33.0,4.1,NO Warrenty
+DELL,DELL Inspiron 15 MSO'24 with Backlit KB Intel Core i7 13th Gen 1355U,Windows 11,16,512,66990,9.0,4.2,NO Warrenty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,36990,24.0,4.2,1 year1 Year Onsite Warranty
+HP,HP 255 G9 840T7PA AMD Athlon Dual Core 3050U,DOS,4,256,21990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL Vostro 3530 Intel Core i5 1334U,Windows 11 Home,16,512,49404,31.0,5.0,1 Year Onsite Warranty
+HP,HP 14 (2025) AMD Ryzen 5 Quad Core 7520U,Windows 11 Pro,8,512,31990,40.0,3.8,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,"Acer Aspire 14 with Backlit Keyboard, Intel Core i5 13th Gen 13500H",Windows 11,16,512,51990,30.0,4.3,1 Year Warranty
+MSI,MSI Modern 14 Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,42990,18.0,4.4,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP Victus Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,69990,19.0,4.2,20241 Year Carry-in Warranty
+Lenovo,Lenovo IdeaPad 1 AMD Ryzen 5 Quad Core 3500U,Windows 11 Home,8,512,35990,38.0,4.2,2 Years Onsite�Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,256,33999,35.0,4.2,NO Warrenty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo Idea Pad Slim 3 Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,67990,15.0,3.8,20241 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+HP,HP Victus 15 AMD Ryzen 5 Hexa Core 5600H,Windows 11 Home,16,512,64990,19.0,4.2,1 Year Onsite Warranty
+MSI,MSI Modern 14 Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,46990,36.0,4.1,20211 Year On-Site Warranty
+Samsung,Samsung Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,84990,42.0,4.3,1 Year Onsite Warranty
+DELL,DELL 15 Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,44844,28.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32990,39.0,4.1,20211 Year Onsite Warranty
+Acer,Acer Aspire Go 14 Intel Core Ultra 5 125H,Windows 11 Home,16,512,54999,21.0,4.0,1 Year Warranty
+Lenovo,Lenovo Legion Go AMD Ryzen Z1 Extreme,Windows 11 Home,16,512,69990,44.0,4.5,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Nitro V Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,81990,18.0,4.3,1 Year International Travelers Warranty (ITW)
+DELL,DELL Vostro Intel Core i3 11th Gen 1115G4,Windows 10,8,256,33422,27.0,4.2,1 Year Onsite Warranty
+Ultimus,Ultimus Pro New Intel Dual Core Upto 2.8GHz,Windows 11 Home,4,128,12490,50.0,0.0,1 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,57799,7.0,4.3,1 Year Onsite warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,36490,38.0,4.1,1 Year Onsite Warranty
+HP,HP 250R G9 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,32,512,40999,48.0,3.6,NO Warrenty
+HP,HP Pavilion Intel Core i5 13th Gen 1340P,Windows 11 Home,16,512,64890,22.0,4.3,1 Year Onsite Warranty
+HP,HP 14R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,16,512,38990,11.0,3.6,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 12th Gen 1215U",Windows 11,16,512,42990,21.0,4.3,1 Year Onsite Warranty
+DELL,DELL Intel Core i3 13th Gen,Windows 11 Home,8,512,35990,37.0,4.2,1 year domestic warranty
+Acer,Acer One Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,256,27990,33.0,4.2,1 Year Warranty
+Lenovo,Lenovo V 15 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Pro,8,512,29999,43.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core 5 120U,Windows 11 Home,16,512,59490,39.0,4.0,NO Warrenty
+ASUS,ASUS Vivobook 14 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,34990,30.0,4.3,20211 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,38349,52.0,4.1,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook Go 15, 12th Gen, Equivalent to Intel 12th Gen, Intel Core i3 N305",Windows 11,8,512,34990,31.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book3 360 EVO AMOLED Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,84990,42.0,4.3,1 Year Onsite Warranty
+HP,HP 15 (2025) AMD Athlon Dual Core 7120U,Windows 11 Home,8,256,27490,38.0,4.0,1 Year Onsite Warranty
+HP,HP Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,36990,38.0,3.8,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core 5 120U,Windows 11 Home,16,512,59490,39.0,4.0,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 15R (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,38349,52.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15s Backlit Keyboard AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,36500,19.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo ThinkPad E14 AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,8,512,53500,39.0,4.1,1 Year Onsite Warranty
+MSI,MSI Modern 14 Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,37990,20.0,4.4,1 Year Onsite Warranty
+MSI,MSI Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,64990,0.0,4.3,1 Year Onsite Warranty
+HP,HP 15 (2025) AMD Athlon Dual Core 7120U,Windows 11 Home,8,256,27490,38.0,4.0,1 Year Onsite Warranty
+HP,HP Victus Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,59490,23.0,4.2,20241 Year Carry-in Warranty
+HP,HP Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,36990,38.0,3.8,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP 15 Intel Core 5 120U,Windows 11 Home,16,512,55089,26.0,3.6,1 Year Onsite Warranty
+HP,HP AMD Athlon Dual Core 3050U,Windows 11 Home,8,256,30990,14.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+ASUS,"ASUS Vivobook Go 15 OLED, with Backlit Keyboard, AMD Ryzen 3 Quad Core 7320U",Windows 11,8,512,35815,42.0,4.4,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15s Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,37990,26.0,4.2,20211 Year Onsite Warranty
+ASUS,ASUS Vivobook 16 (2025) with Office 2024 + M365 Basic* Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,55990,23.0,4.4,1 year1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,62020,24.0,4.1,NO Warrenty
+DELL,DELL 15 Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,65990,25.0,4.2,NO Warrenty
+Lenovo,Lenovo V 15 (2025) Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,45999,45.0,3.7,NO Warrenty
+DELL,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i5 12th Gen 1235U",Windows 11,8,512,46999,28.0,4.3,NO Warrenty
+HP,HP 255 G10 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,31999,25.0,4.2,111 Year Onsite Warranty
+ASUS,"ASUS Vivobook S15, A-Part Metal Body, Backlit Keyboard, Intel Core i9 13th Gen 13900H",Windows 11,16,512,75169,32.0,4.3,1 Year Onsite Warranty
+HP,HP 15s Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,53480,29.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,56850,33.0,4.2,20241 Year Carry-in Warranty
+Acer,Acer NITRO LITE 16 Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,89999,20.0,4.4,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,54990,38.0,4.0,NO Warrenty
+ASUS,ASUS Expertbook Intel Core i5 13th Gen 13420H,Windows 11 Home,32,512,64990,43.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Acer,Acer Nitro V Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,69990,24.0,4.1,1 Year International Travelers Warranty (ITW)
+DELL,DELL Inspiron Intel Core i5 11th Gen 1135G7,Windows 11 Home,16,512,54499,35.0,4.2,1 Year Onsite Warranty
+HP,HP Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,64299,14.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15s Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52880,27.0,4.1,1 Year Onsite Warranty
+DELL,DELL 15 Intel Core i5 1334U,Windows 11 Home,16,512,52919,29.0,4.1,1 Year Onsite Warranty
+HP,HP 15s Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,36990,26.0,3.7,20211 Year Onsite Warranty
+MSI,MSI Thin 15 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,66990,17.0,4.2,2 Year On-Site Warranty
+ASUS,ASUS Vivobook 14 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,32890,43.0,3.9,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,36790,45.0,4.2,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i5 11th Gen 1135G7,Windows 11 Home,16,512,54499,35.0,4.2,1 Year Onsite Warranty
+DELL,DELL Inspiron 3515 AMD Ryzen 3 Dual Core 3250U,Windows 11 Home,8,256,37799,20.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book5 AI Metal Intel Core Ultra 7 255U,Windows 11 Home,16,512,83640,23.0,4.4,20241 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL Inspiron Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,54990,38.0,4.0,NO Warrenty
+ASUS,ASUS Vivobook 14 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,34990,30.0,4.3,20211 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 15s Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52880,27.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,16,512,64990,21.0,3.9,1 Year Onsite Warranty
+DELL,DELL 15 Intel Core i5 1334U,Windows 11 Home,16,512,52919,29.0,4.1,1 Year Onsite Warranty
+MSI,MSI Thin 15 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,66990,17.0,4.2,2 Year On-Site Warranty
+Lenovo,Lenovo V 15 (2025) Intel Celeron Dual Core N4500,Windows 11 Home,8,256,23490,40.0,3.8,1 Year Onsite Warranty
+ASUS,"ASUS Vivobook 16X For Creator, Intel H Series Intel Core i5 13th Gen 13420H",Windows 11,16,512,68990,30.0,4.2,1 Year Onsite Warranty
+HP,HP Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,35990,29.0,4.2,1 Year Onsite Warranty
+ASUS,ASUS TUF A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,66400,19.0,4.3,1 Year McAfee1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 1 Intel Celeron Dual Core N4020,Windows 11 Home,8,512,26990,28.0,3.9,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i5 11th Gen 1135G7,Windows 11 Home,8,256,55899,7.0,4.0,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,51990,37.0,4.2,NO Warrenty
+MSI,MSI Katana 17 Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,99990,15.0,4.0,2 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,39990,26.0,4.0,NO Warrenty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,38900,44.0,4.1,NO Warrenty
+ZEBRONICS,ZEBRONICS Pro Series Z Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,78999,0.0,4.0,1 Year Carry-in Warranty
+MSI,MSI Katana A15 AI AMD Ryzen 7 Octa Core 8845HS,Windows 11 Home,16,512,91990,22.0,4.5,2 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,36490,43.0,4.0,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire 7 Intel Core 5 210H,Windows 11 Home,16,512,74990,11.0,4.4,1 Year Warranty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,41990,40.0,4.2,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL 15 Intel Core i3 13th Gen 1305U,Windows 11 Home,16,512,39990,24.0,4.2,NO Warrenty
+DELL,DELL 14 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Pro,8,512,32990,50.0,3.7,NO Warrenty
+MSI,MSI Modern 15 Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,54990,21.0,4.4,1 Year Warranty Term
+HP,HP Victus Intel Core i5 14th Gen 14450HX,Windows 11 Home,16,512,78990,18.0,4.1,"1 Yearr M365 Basic, Misc PC Game Pass DA 3M1 Year Onsite Warranty"
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo ThinkPad E14 AMD Ryzen 5 Hexa Core 7530U,Windows 11 Home,8,512,53400,35.0,4.1,1 Year Onsite Warranty
+HP,HP Intel Core i3 11th Gen 1115G4,Windows 10 Home,8,512,38790,22.0,4.3,1 Year Domestic Brand Warranty on Device
+HP,HP 15s Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,51800,31.0,4.2,1 Year Onsite Warranty
+DELL,DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U,Windows 11 Pro,8,512,34290,50.0,4.2,111 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,41460,24.0,4.0,NO Warrenty
+Acer,Acer Acer Aspire Lite AL15-53 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,33990,32.0,4.2,NO Warrenty
+DELL,DELL Latitude 3550 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,16,512,38800,45.0,4.0,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+DELL,"DELL Inspiron 15 with Backlit Keyboard, Intel Core i3 12th Gen 1215U",Windows 11,8,512,40800,20.0,4.1,NO Warrenty
+HP,HP Pavilion AMD Ryzen 5 Hexa Core 5625U,Windows 11 Home,8,512,51930,25.0,4.3,1 Year Onsite Warranty
+HP,HP Pavilion Plus MSO 2024 Intel Core Ultra 5 125H,Windows 11 Home,16,512,78990,30.0,4.7,1 year M365 Basic1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI Modern 15 Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,51990,22.0,4.4,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS Intel Core i5 12th Gen 12500H,Windows 11 Home,16,512,57980,20.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 1 AMD Ryzen 7 Octa Core 5700U,Windows 11 Home,16,512,44490,37.0,4.0,NO Warrenty
+Lenovo,Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35990,28.0,4.3,NO Warrenty
+HP,HP 255 G10 (2025) AMD Ryzen 7 Octa Core 7730U,Windows 11 Home,16,512,47999,31.0,4.2,111 Year Onsite Warranty
+ZEBRONICS,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,42699,30.0,3.9,1 Year Carry-in Warranty
+DELL,DELL Inspiron 15 3520 Intel Core i5 12th Gen Core i5,Windows 11 Home,8,512,49990,28.0,3.8,20211 Year Onsite Warranty
+MSI,MSI Modern 14 C13M Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,31990,46.0,4.1,20211 Year On-Site Warranty
+ZEBRONICS,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,44699,29.0,3.9,1 Year Carry-in Warranty
+Lenovo,Lenovo IdeaPad Gaming 3 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,74990,16.0,4.3,1Year Onsite warranty
+Lenovo,Lenovo IdeaPad Slim 1 Intel Celeron Dual Core N4020,Windows 11 Home,8,256,25500,32.0,4.0,NO Warrenty
+Acer,Acer Predator Neo Intel Core i7 13th Gen 13700HX,Windows 11 Home,16,512,99500,18.0,4.4,1 Year International Travelers Warranty (ITW)
+MSI,MSI Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,33040,36.0,4.2,1 Year Carry-in Warranty
+MSI,MSI Thin 15 Intel Core i5 12th Gen 12450H,Windows 11 Home,8,512,58990,13.0,4.3,2 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo AMD Ryzen 5 Ryzen™ 5,Windows 11 Home,8,512,34900,36.0,4.1,NO Warrenty
+Lenovo,Lenovo IdeaPad Flex 5 AMD Ryzen 7 Octa Core 5700U,Windows 11 Home,16,512,67599,31.0,4.3,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI AMD Ryzen 5 Hexa Core 7430U,Windows 11 Home,8,512,38990,40.0,4.3,1 Year Carry-in Warranty
+MSI,MSI Modern 14 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,31520,34.0,4.4,1 Year Warranty Term
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,24,512,104990,12.0,4.5,NO Warrenty
+ASUS,ASUS VivoBook Gaming Intel Core i5 8th Gen 8300H,Windows 10 Home,8,512,52990,23.0,4.3,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,29.0,4.2,1 year1 Year Onsite Warranty
+Acer,Acer Aspire AMD Ryzen 5 Quad Core 3500U,Windows 11 Home,8,512,37990,30.0,4.3,1 Year International Travelers Warranty (ITW)
+ASUS,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,39.0,4.5,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,35990,38.0,4.3,1 Year Onsite Warranty
+DELL,"DELL Inspiron 15 3520 with Backlit Keyboard, Intel Core i5 12th Gen Core i5",Windows 11,16,512,51500,34.0,4.1,15 Months Macafee Antivirus1 Year Onsite Warranty
+MSI,MSI AMD Ryzen 5 Hexa Core 7430U,Windows 11 Home,8,512,38990,40.0,4.3,1 Year Carry-in Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Flex 5 AMD Ryzen 7 Octa Core 5700U,Windows 11 Home,16,512,67599,31.0,4.3,NO Warrenty
+Lenovo,Lenovo IdeaPad 3 Intel Core i3 10th Gen 10110U,Windows 11 Home,8,256,36890,26.0,4.3,20192 Years Warranty
+HP,HP G8 AMD Ryzen 5 Hexa Core 5th Gen 5500U,Windows 11 Home,8,512,30990,39.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo LOQ AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,24,512,104990,12.0,4.5,NO Warrenty
+ASUS,ASUS VivoBook Gaming Intel Core i5 8th Gen 8300H,Windows 10 Home,8,512,52990,23.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ZEBRONICS,ZEBRONICS Thin and Light Laptop Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,41990,46.0,4.0,1 Year Carry-in Warranty
+ASUS,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,39.0,4.5,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 14 (2025) with Office 2024 + M365 Basic* AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,30990,29.0,4.2,1 year1 Year Onsite Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,35990,38.0,4.3,1 Year Onsite Warranty
+Acer,Acer Nitro V 15 Intel Core i7 13th Gen,Windows 11 Home,16,512,99999,20.0,4.3,1 Year Warranty
+MOTOROLA,MOTOROLA Motobook 60 Full Metal OLED (i7 14th Gen) Intel Core 7 (Series 2) 240H,Windows 11,16,512,64990,38.0,4.4,20241 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core Ultra 5 125H,Windows 11 Home,16,512,70990,30.0,4.3,NO Warrenty
+MSI,MSI Thin 15 Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,61990,18.0,4.3,2 Year Onsite Warranty
+HP,HP FC0026AU AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32990,30.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 WUXGA IPS Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,61990,11.0,4.2,20241 Year Carry-in Warranty
+ASUS,ASUS ExpertBook B15 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,36499,28.0,4.3,1 Year Onsite Warranty
+Infinix,Infinix ZERO BOOK ULTRA Series Laptop Intel Intel Core i9 12th Gen 12900H,Windows 11,16,512,89990,30.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Swift Neo Intel Core Ultra 5 115U,Windows 11 Home,16,512,61990,34.0,4.1,1 Year Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP Intel Core i5 13th Gen 1335U,Windows 11 Home,16,512,54990,35.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP Pavilion 15 AMD Ryzen 7 Octa Core 7730U,Windows 11 Home,16,512,57497,24.0,3.4,1 Year Onsite Warranty
+Acer,Acer 3 Years Warranty Aspire 3 (2025) Intel Core i3 13th Gen 1305U,Windows 11 Home,24,512,36650,52.0,5.0,3 Years Onsite Warranty
+ASUS,ASUS Vivobook Go 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,36990,27.0,4.2,1 Year Onsite Warranty
+DELL,DELL Latitude 3540 (2024) Intel Core i3 12th Gen 1215U,Windows 11 Pro,8,512,35190,48.0,4.1,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 14 Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,48990,34.0,4.0,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo Intel Core i3 12th Gen,Windows 11 Home,8,512,33900,38.0,4.0,NO Warrenty
+HP,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,Windows 11 Home,8,512,29790,33.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+ASUS,ASUS Vivobook 15 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,36990,26.0,0.0,1 Year + Office Home 2024 with lifetime validity1 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+HP,HP 14s AMD Ryzen 5 Hexa Core 5500U,Windows 10 Home,8,512,39990,29.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32990,39.0,4.1,20211 Year Onsite Warranty
+ASUS,ASUS TUF Gaming F16 Intel Core 5 210H,Windows 11 Home,16,512,86990,19.0,0.0,1 Year + Office Home 2024 with lifetime validity1 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 1 Intel Celeron Dual Core N4500,Windows 11 Home,8,512,28791,26.0,3.8,1 Year Onsite Warranty
+ASUS,ASUS VivoBook 15 Intel Core i3 10th Gen 1005G1,Windows 11 Home,8,512,27990,45.0,4.3,20211 Year Onsite Warranty
+ASUS,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32100,51.0,4.2,1 Year Onsite Warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,16,512,70490,21.0,4.4,1 Year Onsite Warranty
+HP,HP 14s AMD Ryzen 5 Quad Core 3450U,Windows 10 Home,8,512,38990,27.0,4.5,1 Year Onsite Warranty
+HP,HP 255 G10 (2025) AMD Athlon Dual Core 7120U,Windows 11 Pro,8,256,25500,43.0,2.2,1 Year Onsite Warranty
+DELL,DELL Inspiron 3515 AMD Ryzen 3 Dual Core 3250U,Windows 11 Home,8,256,37799,20.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35499,47.0,4.1,NO Warrenty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,36990,26.0,0.0,1 Year + Office Home 2024 with lifetime validity1 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+Lenovo,Lenovo Intel Core i3 12th Gen,Windows 11 Home,8,512,33900,38.0,4.0,NO Warrenty
+HP,HP 245G9 AMD Ryzen 3 Dual Core AMD Ryzen 3 3250U,Windows 11 Home,8,512,29790,33.0,4.1,1 Year Onsite Warranty
+DELL,DELL Intel Core i3 13th Gen 5000 Series,Windows 11 Home,8,512,32990,42.0,3.8,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+ASUS,ASUS TUF Gaming F16 Intel Core 5 210H,Windows 11 Home,16,512,86990,19.0,0.0,1 Year + Office Home 2024 with lifetime validity1 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+HP,HP 14s AMD Ryzen 5 Quad Core 3450U,Windows 10 Home,8,512,38990,27.0,4.5,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL Latitude 3440 (2025) Intel Core i3 12th Gen 1215U,Windows 11 Home,16,512,36750,41.0,4.0,1 Year Warranty
+DELL,DELL Latitude 3550 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,32,512,42950,46.0,5.0,1 Year ADP Warranty
+ASUS,ASUS Vivobook Go 14 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32100,51.0,4.2,1 Year Onsite Warranty
+ASUS,ASUS VivoBook 15 Intel Core i3 10th Gen 1005G1,Windows 11 Home,8,512,27990,45.0,4.3,20211 Year Onsite Warranty
+Acer,Acer Aspire Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,50990,36.0,0.0,1 Year Carry-in Warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS,Windows 11 Home,16,512,70490,21.0,4.4,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35990,34.0,4.2,NO Warrenty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35499,47.0,4.1,NO Warrenty
+Lenovo,Lenovo IdeaPad 1 Intel Celeron Dual Core N4500,Windows 11 Home,8,512,27999,23.0,3.8,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 14 (2025) with Office 2024 + M365 Basic* Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,34990,32.0,3.8,1 year1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Acer,Acer Aspire 3 Intel Core i3 12th Gen,Windows 11 Home,8,512,31990,20.0,4.2,1 Year International Travelers Warranty (ITW)
+Acer,Acer Intel Core i5 13th Gen,Windows 11 Home,16,512,49990,16.0,3.5,1 Year Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo LOQ AMD Ryzen 5 Quad Core 7235HS,Windows 11 Home,24,512,66290,26.0,4.4,20241 Year Carry-in Warranty
+Lenovo,Lenovo Yoga Slim 6 WUXGA OLED Intel Core i5 13th Gen 13500H,Windows 11 Home,16,512,82490,26.0,4.4,NO Warrenty
+ASUS,ASUS Vivobook 15 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,256,35990,26.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 15s Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,64990,18.0,4.1,1 Year Onsite Warranty
+HP,HP Intel Pentium Quad Core N6000,Windows 11 Home,8,512,35800,3.0,3.4,1 Year Onsite warranty
+HP,HP 15s Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,56990,15.0,4.2,1 Year Onsite Warranty
+ZEBRONICS,ZEBRONICS Pro Series Z Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,42699,30.0,3.9,1 Year Carry-in Warranty
+HP,HP Pavilion Plus Intel Core i5 13th Gen 13500H,Windows 11 Home,16,512,79990,32.0,0.0,20211 Year Onsite Warranty
+DELL,DELL 14 Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,34890,33.0,4.3,1 Year Onsite Warranty
+Acer,Acer ALG Intel Core i5 12th Gen 12450H,Windows 11 Home,16,512,65990,17.0,4.0,1 Year Onsite Warranty
+HP,HP Victus Intel Core i5 12th Gen 12450H,Windows 11 Home,8,512,64990,17.0,3.1,1 year manufacturer warranty
+ASUS,ASUS TUF Gaming A15 AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,69742,14.0,0.0,1 Year Onsite Warranty
+Acer,Acer Extensa 15 AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,256,27300,50.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 1 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,38450,29.0,0.0,20241 Year Warranty and Only 6 Months Warranty on Battery and Adaptor
+DELL,DELL Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,45990,45.0,3.2,NO Warrenty
+Lenovo,Lenovo Intel Celeron Dual Core,DOS,4,256,20990,41.0,3.9,1 Years Warranty
+Infinix,Infinix ZEROBOOK 13 Intel Intel Core i7 13th Gen 13700H,Windows 11 Home,16,512,75990,24.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+ASUS,"ASUS Vivobook 15, with Backlit Keyboard, Intel Core i7 13th Gen 13620H",Windows 11,16,512,64990,24.0,4.3,1 Year Onsite Warranty
+Acer,Acer Intel Core i3 11th Gen,Windows 11 Home,8,512,35091,22.0,4.2,NO Warrenty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP 14s Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,35749,34.0,3.8,1 Year Onsite Warranty
+ASUS,ASUS Vivobook 14 Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,34890,39.0,3.8,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book3 Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,67990,39.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book3 Intel Core i7 13th Gen 1355U,Windows 11 Home,16,512,66700,40.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo Ideapad Slim 3 Intel Intel Core i3 10th Gen 1005G1,Windows 11 Home,8,512,35997,34.0,4.3,20212 Years Onsite�Warranty
+Lenovo,Lenovo IdeaPad Slim 5 WUXGA IPS AI PC Intel Core Ultra 5 125H,Windows 11 Home,16,512,88999,7.0,4.0,NO Warrenty
+ASUS,ASUS Intel Core i5 13th Gen,Windows 11 Home,16,512,64870,25.0,3.0,1 Year Manufacturer Warranty
+Lenovo,Lenovo V14 AMD Ryzen 3 Dual Core 11th Gen,DOS,8,512,27775,28.0,0.0,3 Years Manufacturer Warranty
+DELL,DELL Latitude 3550 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,39499,53.0,4.2,NO Warrenty
+Acer,Acer Intel Core i3 13th Gen,Windows 11 Home,8,512,31693,20.0,3.8,1 Year Warranty
+ASUS,ASUS ROG Ally AMD Ryzen Z1 Octa Core Extreme,Windows 11 Home,16,512,40099,52.0,4.4,3 months Xbox Game Pass Ultimate Subscription Included1 Year Onsite Warranty
+HP,HP G8 Intel Core i3 12th Gen 12 gen,Windows 11 Pro,16,512,39734,47.0,3.9,NO Warrenty
+HP,HP 14s AMD Ryzen 3 Quad Core 4300U,Windows 10 Home,8,512,34890,22.0,4.4,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Infinix,Infinix B15 Series AMD Ryzen 7 Octa Core 5825U,Windows 11 Home,16,512,69990,0.0,4.3,1 Year Domestic Onsite Warranty On Laptop And 6 Months On Adapter
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,33947,38.0,4.3,NO Warrenty
+ASUS,ASUS ROG Strix G15 AMD Ryzen 7 Octa Core 6800HS,Windows 11 Home,16,512,85990,33.0,4.4,1 Year Onsite Warranty
+HP,HP (Core i3 14th Gen) Intel Core 3 100U,Windows 11 Home,8,512,48499,11.0,4.6,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Backlit Keyboard with MSO'2024 Intel Core 5 210H,Windows 11,16,512,58990,14.0,4.8,20241 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+HP,HP AMD Ryzen 5 Hexa Core,Windows 11 Home,8,512,58699,29.0,3.4,NO Warrenty
+ASUS,"ASUS Vivobook Go 15 OLED, Equivalent to Intel 12th Gen, Intel Core i3 N305",Windows 11,8,512,61525,0.0,4.3,1 Year Warranty
+Lenovo,Lenovo IdeaPad Slim 1 AMD Ryzen 3 Dual Core 3rd Gen 3250U,Windows 11 Home,8,512,34433,42.0,3.9,NO Warrenty
+DELL,DELL Latitude 3550 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,32,512,42800,47.0,3.0,1 Year ADP Warranty
+Acer,Acer Aspire 3 Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,30990,22.0,4.3,1 Year Onsite Warranty
+HP,HP 245 G8 AMD Ryzen 5 Quad Core 3500u,Windows 11 Home,8,512,39150,12.0,3.9,1 Year Onsite warranty by OEM
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+MSI,MSI Thin 15 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,57990,30.0,4.3,2 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+DELL,DELL Intel Core i3 13th Gen 1305U,Windows 11 Home,8,512,36490,24.0,4.2,1 Year Onsite Warranty
+Lenovo,Lenovo Ideapad Intel Celeron Dual Core N4020,Windows 11 Home,8,512,27430,27.0,3.8,20211 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo LOQ Intel Core i5 12th Gen 12450HX,Windows 11 Home,16,512,72990,30.0,4.3,NO Warrenty
+DELL,DELL Latitude 3440 (2025) Intel Core i3 12th Gen 1215U,Windows 11 Pro,32,512,40490,46.0,3.9,1 Year Warranty
+HP,HP 15s Intel Core i5 12th Gen,Windows 11 Home,8,512,48990,25.0,4.1,NO Warrenty
+Ultimus,Ultimus Neo Intel Core i3 10th Gen Neo,Windows 11 Home,8,256,22490,37.0,4.0,1 Year Manufacturing Warranty
+MOTOROLA,MOTOROLA Motobook 60 Full Metal OLED (i7 14th Gen) Intel Core 7 (Series 2) 240H,Windows 11,16,512,64990,38.0,4.4,20241 Year Onsite Warranty
+DELL,DELL Inspiron AMD Ryzen 3 Dual Core 3250U,Windows 11 Home,8,256,39490,21.0,4.6,NO Warrenty
+DELL,DELL Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,81990,17.0,3.5,NO Warrenty
+HP,HP 15s AMD Ryzen 5 Quad Core 3500U,Windows 10 Home,8,512,35890,34.0,4.3,1 Year Onsite Warranty
+DELL,DELL G15 AMD Ryzen 7 Octa Core 5800H,Windows 10,16,512,84700,25.0,4.1,NO Warrenty
+HP,HP 15s Intel Core i3 13th Gen 1315U,Windows 11 Home,8,512,37990,30.0,4.2,1 Year Onsite Warranty
+HP,HP Intel Intel Core i3 10th Gen 10110U,Windows 10 Home,8,512,37890,21.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP 250 G8 Intel Core i3 11th Gen,Windows 11 Home,8,512,35787,18.0,4.2,1Year Onsite Warranty
+Lenovo,Lenovo Ideapad Slim 3i (2021) Intel Core i3 10th Gen 10110U,Windows 11 Home,4,256,36990,32.0,3.7,20192 Year Onsite�Warranty
+HP,HP Intel Core i3 11th Gen,Windows 10 Pro,8,512,37200,25.0,4.2,NO Warrenty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 250 G9 Intel Celeron Dual Core N4500,Windows 11 Home,8,256,26049,3.0,4.1,111 year Domestic warranty
+ASUS,ASUS Vivobook 15 Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,35990,20.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Acer,Acer NITRO LITE 16 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,69999,17.0,4.6,1 Year Warranty
+ASUS,ASUS Vivobook 15 Intel Core i5 11th Gen 1135G7,Windows 11 Home,16,512,42990,31.0,4.3,1 Year Onsite Warranty
+ASUS,ASUS TUF Gaming F15 Intel Core i5 12th Gen 12500H,Windows 11 Home,16,512,64990,26.0,4.4,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,46990,49.0,3.9,NO Warrenty
+DELL,DELL inspiron 15 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,16,512,46990,19.0,0.0,1 Year Onsite Warranty
+Acer,Acer Nitro V AMD Ryzen 5 Hexa Core 7535HS,Windows 11 Home,16,512,63499,26.0,4.3,1 Year International Travelers Warranty (ITW)
+Lenovo,Lenovo V14 Intel Core i5 12th Gen 1235U,Windows 11 Home,16,512,48990,16.0,4.1,111 Year Onsite Warranty
+DELL,DELL AMD Ryzen 3 Quad Core 5425U,Windows 11 Home,8,512,40499,18.0,4.0,NO Warrenty
+HP,HP 15 G10 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,29890,40.0,3.9,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Qualcomm Snapdragon X,Windows 11 Home,16,512,82890,0.0,4.3,20241 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 1 MSO'2024 AMD Ryzen 5 Hexa Core 5625U AMD Ryzen 5 Hexa Core 5625U,Windows 11,16,512,48900,21.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,45990,43.0,4.0,1 Year Onsite Warranty
+HP,HP Intel Core i5 12th Gen 1235U,Windows 11 Home,8,512,48890,21.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+MSI,MSI GF63 Intel Core i5 12th Gen 12450H,Windows 11 Home,8,512,52990,44.0,4.4,2 Year Carry-in Warranty
+ASUS,"ASUS Vivobook Pro 15 For Creator, AMD Ryzen 5 Hexa Core 5600HS",Windows 11 Home,16,512,71999,8.0,4.2,1 Year McAfee1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL Intel Core i3 13th Gen,Windows 11 Home,8,512,32999,42.0,3.4,NO Warrenty
+HP,HP Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,55990,20.0,4.8,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i7 12th Gen 1255U,Windows 11 Pro,24,512,59490,40.0,0.0,1 Year Onsite Warranty
+MSI,MSI Thin 15 Intel Core i7 13th Gen 13620H,Windows 11 Home,16,512,62999,30.0,4.4,2 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 3 Intel Celeron Dual Core N4020,Windows 10 Home,4,256,27990,30.0,4.4,20191 Year Warranty
+Lenovo,Lenovo IdeaPad 3 Intel Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,256,35658,42.0,4.3,20212 Years Warranty
+ASUS,"ASUS Vivobook 16X for Creator, Intel Core i7 12th Gen 12700H",Windows 11 Home,16,512,75860,24.0,4.2,1 Year Onsite Warranty
+Acer,"Acer Swift Neo with Backlit Keyboard, Intel Core Ultra 7 155U",Windows 11 Home,16,512,69990,28.0,4.1,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+Lenovo,Lenovo V 14 (2025) Intel Core i5 13th Gen 13420H,Windows 11 Home,24,512,53490,45.0,3.8,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i3 11th Gen,Windows 11 Home,8,256,36990,38.0,4.2,2 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Infinix,Infinix Inbook Y2 Plus Intel Core i7 11th Gen 1195G7,Windows 11 Home,16,512,45490,35.0,0.0,1 Year Onsite Warranty
+ASUS,ASUS AMD Ryzen 5 Quad Core,Windows 11 Home,16,512,42992,34.0,3.3,1 Year Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+Lenovo,Lenovo LOQ Intel Core i5 12th Gen 12450HX,Windows 11 Home,16,512,92990,0.0,4.0,1 Year Carry-in Warranty
+MSI,MSI Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,32990,26.0,4.3,1 Year Onsite Warranty
+Infinix,Infinix Y4 Max Series Intel Core i3 13th Gen 1315U,Windows 11 Home,16,512,39990,33.0,4.3,1 Year Onsite Warranty
+Lenovo,Lenovo IdeaPad 3 Intel Core i5 11th Gen 1135G7,Windows 11 Home,8,512,54890,37.0,4.3,20192 Year Onsite�Warranty
+HP,HP 15 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,32490,35.0,4.9,1 Year Onsite Warranty
+DELL,DELL 15 AMD Ryzen 7 Octa Core 7730U,Windows 11 Home,16,512,49990,25.0,0.0,NO Warrenty
+Acer,Acer Aspire 14 AI Qualcomm Snapdragon X,Windows 11 Home,16,512,59990,34.0,4.5,1 Year Warranty
+MSI,MSI Modern 15 H AI Intel Core Ultra 7 155H,Windows 11 Home,16,512,62990,25.0,3.7,1 Year On-Site Warranty
+HP,HP Pavilion Intel Core i7 11th Gen 11370H,Windows 11 Home,16,512,114100,3.0,4.5,1 Year onsite warranty
+Acer,Acer Aspire 3 AMD Ryzen 5 Quad Core 7520U,Windows 11 Home,8,512,32999,44.0,3.9,1 Year International Travelers Warranty
+HP,HP 15s Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,36800,12.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP Professional 240 G10 (2025) Intel Core i5 13th Gen 1334U,Windows 11 Home,32,512,58749,30.0,3.3,1 Year Onsite Warranty
+HP,HP Professional 15 (2025) Intel Core i5 13th Gen 1334U,Windows 11 Home,16,512,53999,45.0,4.1,1 Year Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+HP,HP 15s AMD Ryzen 5 Quad Core 3500U,Windows 10 Home,8,512,35890,34.0,4.3,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i5 11th Gen 1135G7,Windows 11 Home,8,512,55000,21.0,4.0,NO Warrenty
+HP,HP Intel Intel Core i5 12th Gen,Windows 11 Home,8,512,55990,15.0,4.2,1 year (1/1/1) limited warranty includes 1 year of parts and labor. On-site repair. Terms and conditions vary by country. Certain restrictions and exclusions apply.
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+ASUS,ASUS Intel Core i7 12th Gen,Windows 11 Home,16,512,98999,11.0,0.0,1 Year Warranty
+DELL,DELL AMD Ryzen 7 Octa Core 5700U,Windows 11 Home,16,512,76990,18.0,2.8,NO Warrenty
+Lenovo,Lenovo Intel Core i5 12th Gen,Windows 11 Home,16,512,56938,28.0,3.4,NO Warrenty
+Lenovo,Lenovo V14 Intel Core i7 12th Gen 1255U,Windows 11 Home,16,512,64990,8.0,4.1,1 Year brand Onsite Warranty
+ASUS,ASUS Vivobook Gaming Intel Core i5 9th Gen,Windows 11 Home,8,512,56299,26.0,4.3,1 Year Onsite Warranty
+DELL,DELL Intel Core i3 11th Gen 1115G4,Windows 11 Home,8,512,38499,25.0,4.2,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U,Windows 11 Home,8,512,52500,32.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 10th Gen 10100Y,Windows 11 Home,8,256,19990,50.0,4.1,1 Year Onsite Warranty
+HP,HP Intel Core i5 13th Gen,Windows 11 Home,16,512,74630,17.0,4.3,1 year Warranty
+Lenovo,Lenovo V15 AMD Ryzen 3 Quad Core 7320U,DOS,8,512,29990,17.0,4.1,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 360 Evo Intel Core 5 120U,Windows 11 Home,16,512,111699,15.0,4.4,20211 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+Lenovo,Lenovo IdeaPad Gaming 3 AMD Ryzen 7 Octa Core AMD R7-5800H,Windows 11 Home,16,512,77990,34.0,4.4,20211 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+HP,HP Victus Intel Core i7 12th Gen 12650H,Windows 11 Home,16,512,99199,12.0,4.1,20211 Year Onsite Warranty
+Acer,Acer NITRO LITE 16 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,79990,22.0,4.1,1 Year Warranty
+HP,HP AMD Ryzen 3 Dual Core 3250U,Windows 11 Home,8,512,35990,21.0,4.3,1 Year Onsite Warranty
+Samsung,Samsung Galaxy Book4 Intel Core 5 120U,Windows 11 Home,8,512,72799,15.0,4.4,1 Year Manufacturer Warranty for Laptop and 6 Months for In-Box Accessories
+CHUWI,CHUWI Intel Core i3 12th Gen Intel Core i3-1215U,Windows 11 Home,12,512,37990,24.0,4.0,1 Year Onsite Warranty
+DELL,DELL Inspiron Intel Core i5 11th Gen 1135G7,Windows 11 Home,16,512,72490,24.0,3.7,1 Year Onsite Warranty
+ASUS,ASUS Vivobook Intel Core i3 12th Gen 1215U,Windows 11 Home,8,512,35238,35.0,4.3,20211 Year Onsite Warranty
+HP,HP 250R G9 (2025) Intel Core i3 13th Gen 1315U,Windows 11 Pro,16,512,34990,46.0,0.0,1 Year Onsite Warranty
+HP,HP Intel Intel Core i3 11th Gen 1115G4,Windows 10 Home,8,256,36885,19.0,4.4,1 Year Onsite Warranty
+DELL,DELL AMD Ryzen 5 Dual Core 7520U,Windows 11 Home,8,512,36990,27.0,4.5,NO Warrenty
+Lenovo,Lenovo Yoga Slim 6 WUXGA OLED Intel Core i7 13th Gen 13700H,Windows 11 Home,16,512,88000,35.0,4.6,NO Warrenty
+Lenovo,Lenovo V 15 (2025) Intel Core i5 12th Gen 1235U,Windows 11 Pro,8,512,44490,47.0,5.0,NO Warrenty
+Lenovo,Lenovo IdeaPad Slim 3 Intel Core i5 13th Gen 13420H,Windows 11 Home,16,512,54658,36.0,4.3,NO Warrenty
+Lenovo,Lenovo V 15 (2025) AMD Ryzen 3 Quad Core 7320U,Windows 11 Home,8,512,28990,49.0,4.8,1 Year Onsite Warranty
+Infinix,Infinix X1 Slim Series Intel Core i3 10th Gen 1005G1,Windows 11 Home,8,256,35399,29.0,4.2,1 Year Onsite Warranty
