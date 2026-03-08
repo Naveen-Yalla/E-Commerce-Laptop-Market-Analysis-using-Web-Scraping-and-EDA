@@ -1,0 +1,2 @@
+# E--Commerce-Laptop-Market-Analysis-using-Web-Scraping-EDA
+E-commerce Laptop Market Analysis | End-to-End Data Analysis Pipeline. Analyzed 774 laptop listings to uncover pricing trends, brand performance, hardware specifications, discount patterns, and customer ratings. Built complete pipeline: Data Extraction → Cleaning → EDA → Visualization → Statistical Testing using regex, Python and it's libraries.
