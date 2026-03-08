@@ -53,5 +53,5 @@ Visuals are Generated via notebook(Visualisations.ipynb) using python libraries 
 ## 👨‍💻 Tools and Technologies Used
 
 ```python
-pandas, numpy, matplotlib, seaborn, scipy.stats
+pandas, numpy, matplotlib, seaborn, scipy.stats, regex
 Jupyter Notebook, Python 3.8+
